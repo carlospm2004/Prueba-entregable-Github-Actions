@@ -1,0 +1,7 @@
+[
+  { "id": 1, "producto": "Portátil", "cliente": "Empresa A", "importe": 1200.50, "fecha": "2026-10-01" },
+  { "id": 2, "producto": "Monitor", "cliente": "Empresa B", "importe": 350.00, "fecha": "2026-10-03" },
+  { "id": 3, "producto": "Teclado", "cliente": "Empresa A", "importe": 75.90, "fecha": "2026-10-05" },
+  { "id": 4, "producto": "Ratón", "cliente": "Empresa C", "importe": 25.00, "fecha": "2026-10-07" },
+  { "id": 5, "producto": "Impresora", "cliente": "Empresa B", "importe": 410.00, "fecha": "2026-10-10" }
+]
